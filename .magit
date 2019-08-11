@@ -1,0 +1,38 @@
+                                                                                                             0.200.13@25.2.2 (spacemacs)
+                                                      
+
+                                                          [S P A C E M A C S]
+
+                                    [?] [Homepage] [Documentation] [Gitter Chat] [Update Spacemacs]
+                                              [Update Packages] [Rollback Package Update]
+                                                 [Release Notes] [Search in Spacemacs]
+
+
+
+
+                                          177 packages loaded in 16.665s (e:118 r:1 l:15 b:43)
+
+
+
+           Warnings:
+               - Cannot find any of the specified fonts (Source Code Pro)! Font settings may not
+                 be correct.      
+           
+           Recent Files:
+               ~/.spacemacs
+               ~/emacs/init.el
+               ~/git-repos/testing/somefile.py
+               ~/Desktop/AI stuff/Reinforcement learning/dqn.py
+               ~/Desktop/AI stuff/Reinforcement learning/network.py
+           
+           Projects:
+               ~/emacs/
+               ~/git-repos/testing/
+               ~/.emacs.d/
+           
+
+
+
+                                                            
+
+                                                     Made with   by the community
